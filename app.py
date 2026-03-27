@@ -1,3 +1,5 @@
+#to activate venv this command after cd : venv\Scripts\Activate
+
 import streamlit as st
 import os
 import subprocess
