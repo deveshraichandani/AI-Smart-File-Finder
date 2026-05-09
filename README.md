@@ -6,7 +6,7 @@ Smart File Finder 🔎
 AI-powered file search tool that helps users locate files using semantic search instead of exact file names. Users can search with natural language queries, and the system returns the most relevant files from a selected folder.
 
 
-Run the Project
+Run the Project :
 
 Install dependencies:
 
